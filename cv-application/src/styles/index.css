@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(212, 238, 212);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter, sans-serif;
+  margin: 40px 0;
+  color: rgb(41, 53, 41);
+}

@@ -1,0 +1,19 @@
+.button{
+  padding: 15px 30px;
+  background-color: rgb(41, 53, 41);
+  color: #f5f5f5;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+.button:hover{
+  outline: 2px solid rgb(60, 80, 60);
+}
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+}
