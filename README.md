@@ -20,37 +20,37 @@ To get started with the project:
 
 1. **Clone the Repository:**
 
-   ```bash
+   ```
    git clone https://github.com/baloghtelli/cv-creator-app.git
-   
+   ```
 
 2. **Navigate to the Project Directory:**
 
-  ```bash
+  ```
   cd cv-creator-app
-  
+  ```
 
 3. **Install Dependencies:**
 
-  ```bash
+  ```
   npm install
-  
+  ```
 
 ## Development  
 
 **To run the development server:**
   
-  ```bash
+  ```
   npm run dev
-  
+  ```
 
 ## Build
 
 **To create a production-ready build:**
 
-  ```bash
+  ```
   npm run build
-  
+  ```
 
 ## Deployment
 
