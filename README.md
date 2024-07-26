@@ -54,11 +54,7 @@ To get started with the project:
 
 ## Deployment
 
-**Deploy your application using platforms like:**
-
-  - Vercel
-  - Netlify
-  - GitHub Pages
+**This project can be deployed to Netlify. Follow Netlify's deployment documentation for detailed instructions.**
 
 ## Usage
 
